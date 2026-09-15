@@ -1,7 +1,7 @@
 // valores falsy
 console.log(!!0);        
 console.log(!!"");        
-console.log(!!null);       0
+console.log(!!null);       
 
 // Valores Trunthy
 console.log(!!1);        
